@@ -1,4 +1,22 @@
 body {
   background-color: rgb(31, 31, 31);
   color: rgb(232, 232, 232);
+  display: grid;
+	text-align: center;
+	padding: 10%;
+}
+.title {
+	font-size: 50px;
+}
+.main {
+	font-size: 20px;
+}
+a:link {
+  color: rgb(232, 232, 232);
+}
+a:visited {
+  color: rgb(216, 216, 216);
+}
+a:hover {
+  color: rgb(200, 200, 200);
 }

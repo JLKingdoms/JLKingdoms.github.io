@@ -2,14 +2,14 @@ body {
   background-color: rgb(31, 31, 31);
   color: rgb(232, 232, 232);
   display: grid;
-	text-align: center;
-	padding: 10%;
+  text-align: center;
+  padding: 10%;
 }
 .ttext {
-	font-size: 50px;
+  font-size: 50px;
 }
 .main {
-	font-size: 20px;
+  font-size: 20px;
 }
 a:link {
   color: rgb(232, 232, 232);
